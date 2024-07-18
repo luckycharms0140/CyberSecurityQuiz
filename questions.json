@@ -1,0 +1,242 @@
+[
+    {
+        "question": "What does SQL stand for?",
+        "choices": ["Structured Query Language", "Structured Question Language", "Strong Question Language", "Strong Query Language"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "What is a firewall used for in cybersecurity?",
+        "choices": ["To prevent unauthorized access", "To clean viruses", "To hack into systems", "To create malware"],
+        "answer": "To prevent unauthorized access"
+    },
+    {
+        "question": "Which of the following is a type of malware that replicates itself?",
+        "choices": ["Worm", "Phish", "Trojan", "Spyware"],
+        "answer": "Worm"
+    },
+    {
+        "question": "What is phishing?",
+        "choices": ["A cyber attack that attempts to steal information through deception", "A method of securing data", "A type of firewall", "A way to protect against viruses"],
+        "answer": "A cyber attack that attempts to steal information through deception"
+    },
+    {
+        "question": "What is the main purpose of encryption?",
+        "choices": ["To protect data by making it unreadable to unauthorized users", "To speed up data transmission", "To compress data", "To store data"],
+        "answer": "To protect data by making it unreadable to unauthorized users"
+    },
+    {
+        "question": "What is a DDoS attack?",
+        "choices": ["Distributed Denial of Service", "Distributed Data of Service", "Direct Denial of Service", "Direct Data of Service"],
+        "answer": "Distributed Denial of Service"
+    },
+    {
+        "question": "What does VPN stand for?",
+        "choices": ["Virtual Private Network", "Virtual Public Network", "Virtual Protected Network", "Virtual Personal Network"],
+        "answer": "Virtual Private Network"
+    },
+    {
+        "question": "What is ransomware?",
+        "choices": ["Malware that locks or encrypts data until a ransom is paid", "A type of antivirus", "A method of backing up data", "A security protocol"],
+        "answer": "Malware that locks or encrypts data until a ransom is paid"
+    },
+    {
+        "question": "What is the purpose of multi-factor authentication (MFA)?",
+        "choices": ["To increase security by requiring multiple forms of verification", "To speed up login processes", "To encrypt data during transmission", "To monitor network traffic"],
+        "answer": "To increase security by requiring multiple forms of verification"
+    },
+    {
+        "question": "What is an insider threat?",
+        "choices": ["A threat that comes from within an organization", "A type of external attack", "A form of social engineering", "A method of data encryption"],
+        "answer": "A threat that comes from within an organization"
+    },
+    {
+        "question": "What is the CIA triad in cybersecurity?",
+        "choices": ["Confidentiality, Integrity, Availability", "Confidentiality, Information, Authentication", "Confidentiality, Integrity, Authentication", "Confidentiality, Information, Availability"],
+        "answer": "Confidentiality, Integrity, Availability"
+    },
+    {
+        "question": "What is a zero-day vulnerability?",
+        "choices": ["A previously unknown vulnerability with no fix", "A type of phishing attack", "A known vulnerability with a fix", "A vulnerability with a patch"],
+        "answer": "A previously unknown vulnerability with no fix"
+    },
+    {
+        "question": "What does HTTPS stand for?",
+        "choices": ["Hypertext Transfer Protocol Secure", "Hyper Transfer Text Protocol Secure", "Hypertext Transfer Protocol Standard", "Hyper Transfer Text Protocol Standard"],
+        "answer": "Hypertext Transfer Protocol Secure"
+    },
+    {
+        "question": "What is a botnet?",
+        "choices": ["A network of compromised computers controlled by an attacker", "A type of firewall", "A security protocol", "A method of encrypting data"],
+        "answer": "A network of compromised computers controlled by an attacker"
+    },
+    {
+        "question": "What is social engineering?",
+        "choices": ["Manipulating people into divulging confidential information", "Hacking into social media accounts", "A method of securing data", "A type of malware"],
+        "answer": "Manipulating people into divulging confidential information"
+    },
+    {
+        "question": "What is a brute force attack?",
+        "choices": ["An attack that tries every possible password combination", "An attack that exploits software vulnerabilities", "An attack that uses social engineering techniques", "An attack that uses malware"],
+        "answer": "An attack that tries every possible password combination"
+    },
+    {
+        "question": "What is the purpose of a digital certificate?",
+        "choices": ["To verify the authenticity of a digital entity", "To encrypt data", "To store passwords securely", "To monitor network traffic"],
+        "answer": "To verify the authenticity of a digital entity"
+    },
+    {
+        "question": "What does IDS stand for in cybersecurity?",
+        "choices": ["Intrusion Detection System", "Internal Data Security", "Internet Data Service", "Information Detection Service"],
+        "answer": "Intrusion Detection System"
+    },
+    {
+        "question": "What is the primary goal of a phishing attack?",
+        "choices": ["To steal sensitive information", "To install malware", "To deface websites", "To perform a DDoS attack"],
+        "answer": "To steal sensitive information"
+    },
+    {
+        "question": "What is two-factor authentication (2FA)?",
+        "choices": ["A security process that requires two different authentication methods", "A method of encrypting data", "A way to secure network traffic", "A type of firewall configuration"],
+        "answer": "A security process that requires two different authentication methods"
+    },
+    {
+        "question": "What is the main function of an antivirus program?",
+        "choices": ["To detect and remove malicious software", "To encrypt data", "To perform regular backups", "To monitor network traffic"],
+        "answer": "To detect and remove malicious software"
+    },
+    {
+        "question": "What is the difference between a virus and a worm?",
+        "choices": ["A virus needs a host to spread, a worm does not", "A worm needs a host to spread, a virus does not", "They are the same", "A virus is a type of phishing attack"],
+        "answer": "A virus needs a host to spread, a worm does not"
+    },
+    {
+        "question": "What is the principle of least privilege?",
+        "choices": ["Users should have the minimum level of access necessary", "Users should have access to all resources", "Administrators should monitor all user activities", "Users should change their passwords regularly"],
+        "answer": "Users should have the minimum level of access necessary"
+    },
+    {
+        "question": "What does SSL stand for?",
+        "choices": ["Secure Sockets Layer", "Secure Software Layer", "Secure Systems Link", "Secure Sockets Link"],
+        "answer": "Secure Sockets Layer"
+    },
+    {
+        "question": "What is the purpose of penetration testing?",
+        "choices": ["To identify and exploit vulnerabilities in a system", "To install security updates", "To create security policies", "To encrypt sensitive data"],
+        "answer": "To identify and exploit vulnerabilities in a system"
+    },
+    {
+        "question": "What is a Trojan horse?",
+        "choices": ["Malware disguised as legitimate software", "A type of phishing attack", "A method of encrypting data", "A security protocol"],
+        "answer": "Malware disguised as legitimate software"
+    },
+    {
+        "question": "What is a honeypot?",
+        "choices": ["A decoy system designed to attract attackers", "A type of malware", "A method of encrypting data", "A security protocol"],
+        "answer": "A decoy system designed to attract attackers"
+    },
+    {
+        "question": "What is the primary purpose of a security audit?",
+        "choices": ["To evaluate the effectiveness of security measures", "To install antivirus software", "To encrypt sensitive data", "To monitor network traffic"],
+        "answer": "To evaluate the effectiveness of security measures"
+    },
+    {
+        "question": "What does MAC stand for in cybersecurity?",
+        "choices": ["Mandatory Access Control", "Media Access Control", "Message Authentication Code", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a security policy?",
+        "choices": ["A set of rules and practices for protecting information", "A type of firewall", "A method of encrypting data", "A way to monitor network traffic"],
+        "answer": "A set of rules and practices for protecting information"
+    },
+    {
+        "question": "What is a botnet used for?",
+        "choices": ["Conducting large-scale cyber attacks", "Encrypting data", "Backing up data", "Securing network traffic"],
+        "answer": "Conducting large-scale cyber attacks"
+    },
+    {
+        "question": "What is the purpose of data encryption?",
+        "choices": ["To protect data by making it unreadable to unauthorized users", "To speed up data transmission", "To compress data", "To store data"],
+        "answer": "To protect data by making it unreadable to unauthorized users"
+    },
+    {
+        "question": "What is a security breach?",
+        "choices": ["Unauthorized access to data or systems", "Installing antivirus software", "Creating a backup of data", "Encrypting sensitive information"],
+        "answer": "Unauthorized access to data or systems"
+    },
+    {
+        "question": "What does BYOD stand for?",
+        "choices": ["Bring Your Own Device", "Bring Your Own Data", "Back Up Your Data", "Bring Your Own Desktop"],
+        "answer": "Bring Your Own Device"
+    },
+    {
+        "question": "What is a security vulnerability?",
+        "choices": ["A weakness that can be exploited to gain unauthorized access", "A type of malware", "A method of encrypting data", "A security protocol"],
+        "answer": "A weakness that can be exploited to gain unauthorized access"
+    },
+    {
+        "question": "What is the role of a security operations center (SOC)?",
+        "choices": ["To monitor and respond to security incidents", "To encrypt data", "To install antivirus software", "To create security policies"],
+        "answer": "To monitor and respond to security incidents"
+    },
+    {
+        "question": "What is a cyber threat actor?",
+        "choices": ["An individual or group that conducts cyber attacks", "A type of malware", "A method of encrypting data", "A security protocol"],
+        "answer": "An individual or group that conducts cyber attacks"
+    },
+    {
+        "question": "What is the purpose of a VPN?",
+        "choices": ["To create a secure connection over the internet", "To encrypt data", "To speed up data transmission", "To monitor network traffic"],
+        "answer": "To create a secure connection over the internet"
+    },
+    {
+        "question": "What is the primary goal of a denial-of-service (DoS) attack?",
+        "choices": ["To disrupt the availability of a system or service", "To steal sensitive information", "To encrypt data", "To install malware"],
+        "answer": "To disrupt the availability of a system or service"
+    },
+    {
+        "question": "What is the purpose of security awareness training?",
+        "choices": ["To educate employees about cybersecurity best practices", "To install antivirus software", "To encrypt sensitive data", "To monitor network traffic"],
+        "answer": "To educate employees about cybersecurity best practices"
+    },
+    {
+        "question": "What does APT stand for in cybersecurity?",
+        "choices": ["Advanced Persistent Threat", "Advanced Phishing Technique", "Advanced Penetration Test", "Advanced Password Technology"],
+        "answer": "Advanced Persistent Threat"
+    },
+    {
+        "question": "What is the purpose of a security information and event management (SIEM) system?",
+        "choices": ["To collect, analyze, and respond to security events", "To encrypt data", "To install antivirus software", "To create security policies"],
+        "answer": "To collect, analyze, and respond to security events"
+    },
+    {
+        "question": "What is a security token?",
+        "choices": ["A physical or digital device used for authentication", "A type of malware", "A method of encrypting data", "A security protocol"],
+        "answer": "A physical or digital device used for authentication"
+    },
+    {
+        "question": "What is the primary function of a cybersecurity incident response team (CIRT)?",
+        "choices": ["To respond to and mitigate security incidents", "To install antivirus software", "To encrypt sensitive data", "To monitor network traffic"],
+        "answer": "To respond to and mitigate security incidents"
+    },
+    {
+        "question": "What is a supply chain attack?",
+        "choices": ["An attack that targets a supplier or vendor to compromise a target", "A type of phishing attack", "A method of encrypting data", "A security protocol"],
+        "answer": "An attack that targets a supplier or vendor to compromise a target"
+    },
+    {
+        "question": "What does GDPR stand for?",
+        "choices": ["General Data Protection Regulation", "General Data Privacy Regulation", "Global Data Protection Regulation", "Global Data Privacy Regulation"],
+        "answer": "General Data Protection Regulation"
+    },
+    {
+        "question": "What is a security framework?",
+        "choices": ["A structured set of guidelines for managing security", "A type of firewall", "A method of encrypting data", "A security protocol"],
+        "answer": "A structured set of guidelines for managing security"
+    },
+    {
+        "question": "What is the purpose of an endpoint detection and response (EDR) system?",
+        "choices": ["To detect and respond to threats on endpoint devices", "To encrypt data", "To install antivirus software", "To create security policies"],
+        "answer": "To detect and respond to threats on endpoint devices"
+    }
+]
